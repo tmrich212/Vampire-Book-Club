@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vampire-book-club/static/css/main.cd67b935.css",
+    "main.js": "/vampire-book-club/static/js/main.8c03470e.js",
+    "static/js/787.2e726feb.chunk.js": "/vampire-book-club/static/js/787.2e726feb.chunk.js",
+    "index.html": "/vampire-book-club/index.html",
+    "main.cd67b935.css.map": "/vampire-book-club/static/css/main.cd67b935.css.map",
+    "main.8c03470e.js.map": "/vampire-book-club/static/js/main.8c03470e.js.map",
+    "787.2e726feb.chunk.js.map": "/vampire-book-club/static/js/787.2e726feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd67b935.css",
+    "static/js/main.8c03470e.js"
+  ]
+}
